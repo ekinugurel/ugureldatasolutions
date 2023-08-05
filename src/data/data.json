@@ -1,15 +1,15 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Ugurel Data Solutions",
+    "paragraph": "Translating complex datasets into actionable insights, I leverage deep expertise in data science, engineering, and machine learning to propel businesses forward. With a strong foundation in mathematics and statistics, I offer custom solutions that cater to the individual needs of my clients. Enabling smarter decisions, improved efficiency, and measurable growth, Ugurel Data Solutions is committed to making data science accessible and affordable for all."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Data scientist and engineer, residing and transforming businesses in Seattle, Washington. Empowering dynamic start-ups, small businesses, and aspiring individuals to harness the power of data and unlock their full potential.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Tested experience",
+      "Affordable Treatment",
+      "Simple Solutions",
+      "Client-oriented Development"
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Inferential Statistics",
+      "text": "By analyzing samples of data and making inferences about the larger population, we help businesses gain insights into trends, patterns, and relationships in their data. This empowers them to test hypotheses, make predictions, and drive strategic decisions based on statistical evidence."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Time-Series Analyses",
+      "text": "Many business variables are tracked over time, such as sales, customer demand, or stock prices. Our time-series analysis services provide businesses with the tools to understand these trends, seasonality, and cycles in their data. With this understanding, we can help forecast future values, detect anomalies, and make strategic decisions based on time-dependent patterns."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Data Visualizations",
+      "text": "Data, in its raw form, can be overwhelming and difficult to interpret. That's why we specialize in creating clear, engaging, and informative data visualizations. From dashboards to detailed graphs, we transform complex datasets into visual narratives that can be easily understood, helping stakeholders to see the bigger picture, identify trends and anomalies, and make data-driven decisions with confidence."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Predictive Modeling",
+      "text": "We provide predictive modeling services to help businesses forecast future outcomes based on historical data. Utilizing advanced machine learning algorithms and techniques, we build models that can predict customer behavior, market trends, sales volumes, and more."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Data Cleaning/Preprocessing",
+      "text": "The quality of your data can significantly impact the results of your data analysis. With our data cleaning and preprocessing services, we help businesses ensure that their data is accurate, consistent, and ready for analysis."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Feature Selection",
+      "text": "Our feature selection services help businesses identify the most relevant variables for their models, reducing overfitting, improving model performance, and saving computational resources. Whether it's through filter methods, wrapper methods, or embedded methods, we provide a systematic approach to feature selection that's tailored to your specific data and business objectives."
     }
   ],
   "Testimonials": [
@@ -132,8 +132,8 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Ekin Ugurel",
+      "job": "Founder / Director"
     },
     {
       "img": "img/team/02.jpg",
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "6204 29th Ave NE, Seattle, WA 98115 ",
+    "phone": "+1 512 704 2016",
+    "email": "ugureldatasolutions@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
