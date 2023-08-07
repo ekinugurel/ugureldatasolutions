@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ugureldatasolutions/static/css/main.fe5bcaf3.css",
+    "main.js": "/ugureldatasolutions/static/js/main.d1601700.js",
+    "index.html": "/ugureldatasolutions/index.html",
+    "main.fe5bcaf3.css.map": "/ugureldatasolutions/static/css/main.fe5bcaf3.css.map",
+    "main.d1601700.js.map": "/ugureldatasolutions/static/js/main.d1601700.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5bcaf3.css",
+    "static/js/main.d1601700.js"
+  ]
+}
