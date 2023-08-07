@@ -20,3 +20,4 @@ jobs:
       uses: tanwanimohit/deploy-react-to-ghpages@v1.0.1
       with:
         access-token: ${{ secrets.REPO_ACCESS_TOKEN }}
+        branch: gh-pages
